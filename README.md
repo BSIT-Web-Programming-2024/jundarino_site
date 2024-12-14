@@ -1,2 +1,1 @@
-Final Exam Submission
-[View Submission](https://github.com/JUSTINE-JUNDARINO/jundarino_site)
+https://bsit-web-programming-2024.github.io/jundarino_site
